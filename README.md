@@ -4,13 +4,13 @@ This is a Machine learning Model deployment project.
 I have taken a problem statement which aims to predict the sales data based on the input features giving the amount spent on the different categories of advertising.
 
 # Data:
-* Independant variables:- 
-1.TV	
-2.Radio	
-3.Newspaper
+Independant variables:- 
+* 1.TV	
+* 2.Radio	
+* 3.Newspaper
 
-* Dependant variable/ Output:
-Sales
+Dependant variable/ Output:
+* Sales
 
 # Methodology used:
 * I have used Random Forest Regressor algorithm for this usecase to train on the i/p data and predict the future sales for new advertising data.
