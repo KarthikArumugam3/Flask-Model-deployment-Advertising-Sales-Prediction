@@ -14,4 +14,5 @@ Sales
 
 # Methodology used:
 * I have used Random Forest Regressor algorithm for this usecase to train on the i/p data and predict the future sales for new advertising data.
-* Then I deployed the modelusing Flask on my of local computer(localhost) and finally used Postman to perform the POST & GET requests to predict the sales for new incoming data of advertising expenditure.
+* Then I deployed the modelusing Flask on my of local computer(localhost) and 
+* Finally tested the API using Postman to perform the POST & GET requests to predict the sales for new incoming data of advertising expenditure.
