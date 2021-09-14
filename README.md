@@ -5,12 +5,12 @@ I have taken a problem statement which aims to predict the sales data based on t
 
 # Data:
 Independant variables:- 
-* 1.TV	
-* 2.Radio	
-* 3.Newspaper
+* 1.TV	- Amount spent on T.V. Ads
+* 2.Radio	- Amount spent on Radio Ads
+* 3.Newspaper - Amount spent on Newspaper Ads
 
 Dependant variable/ Output:
-* Sales
+* Sales - Sales revenue generated 
 
 # Methodology used:
 * I have used Random Forest Regressor algorithm for this usecase to train on the i/p data and predict the future sales for new advertising data.
